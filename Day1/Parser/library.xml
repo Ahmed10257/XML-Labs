@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="library.css"?>
+<library>
+    <location>Alexandria</location>
+    <description>ٍSimple Library</description>
+    <librarian>
+        <name>Ahmed Mansour</name>
+        <email>ahmed@test.com</email>
+    </librarian>
+    <books>
+        <book>
+            <title>XML First Lec</title>
+            <isbn>345-6-65463465-34-0</isbn>
+            <author>The Tester</author>
+            <preface>
+                <content>This is a Summary for the first Lec</content>
+            </preface>
+            <parts>
+                <part>
+                    <title>Getting Started</title>
+                    <chapters>
+                        <chapter>
+                            <title>Introduction</title>
+                            <summary>What is XML</summary>
+                            <sections>
+                                <section>
+                                    <paragraph>This chapter XML Basics</paragraph>
+                                    <paragraph>We'll start by the Basic Markup Language</paragraph>
+                                </section>
+                            </sections>
+                        </chapter>
+                    </chapters>
+                </part>
+            </parts>
+        </book>
+        <book>
+            <title>The Great Gatsby</title>
+            <isbn>234-5-2355-3245-2</isbn>
+            <author>The Tester</author>
+            <preface>
+                <content>Intro to Laravel</content>
+            </preface>
+            <parts>
+                <part>
+                    <title>Laravel FrameWork</title>
+                    <chapters>
+                        <chapter>
+                            <title>Why Laravel</title>
+                            <summary>Intro to Laravel</summary>
+                            <sections>
+                                <section>
+                                    <paragraph>Laravel framework makes it easier to work with php</paragraph>
+                                    <paragraph>it serves as a good backend framework</paragraph>
+                                </section>
+                            </sections>
+                        </chapter>
+                    </chapters>
+                </part>
+            </parts>
+        </book>
+    </books>
+</library>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="contacts.css"?>
+<employees>
+    <employee>
+        <name>Ahmed Mansour</name>
+        <phones>
+            <phone type="phone1">01111111111</phone>
+            <phone type="phone2">02222222222</phone>
+        </phones>
+        <addresses>
+            <address>
+                <Street>El-Tabeen Mosque</Street>
+                <BuildingNumber>22</BuildingNumber>
+                <Region>Region</Region>
+                <City>Alexandria</City>
+                <Country>Egypt</Country>
+            </address>
+        </addresses>
+        <email>ahmed@test.com</email>
+    </employee>
+    <employee>
+        <name>Ahmed Mansour</name>
+        <phones>
+            <phone type="phone1">01111111111</phone>
+            <phone type="phone2">02222222222</phone>
+        </phones>
+        <addresses>
+            <address>
+                <Street>El-Tabeen Mosque</Street>
+                <BuildingNumber>22</BuildingNumber>
+                <Region>Region</Region>
+                <City>Alexandria</City>
+                <Country>Egypt</Country>
+            </address>
+        </addresses>
+        <email>ahmed@test.com</email>
+    </employee>
+</employees>
